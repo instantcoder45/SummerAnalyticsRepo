@@ -60,6 +60,8 @@ The final output is visualized live using Bokeh and Panel to emulate real-world 
 ## 📄 Included Documentation
 
 - This repository contains a detailed **project report** describing the methodology, model logic, exploratory analysis, and observations.
+- Collab link to model 1: https://colab.research.google.com/drive/1V20xS57JNRAbbbVAS455ApSR0e7nNtUD?usp=sharing
+- Collab link to model 2: https://colab.research.google.com/drive/1PhzI4Br0OrHfnD72zizsNAYA1G4_MOFP?usp=sharing
 
 ---
 
